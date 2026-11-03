@@ -1,0 +1,16 @@
+# Lugares de Studio: el mapa vive en Roblox, no en git
+*.rbxl
+*.rbxlx
+*.rbxl.lock
+*.rbxlx.lock
+*.rbxm
+*.rbxmx
+
+# Salida de compilación
+/build/
+
+# Sistema y editores
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/settings.json

@@ -1,0 +1,4 @@
+# Herramientas del proyecto. Instálalas con: rokit install
+
+[tools]
+rojo = "rojo-rbx/rojo@7.7.1"
